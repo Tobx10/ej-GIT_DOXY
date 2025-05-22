@@ -10,7 +10,7 @@
 /**
 * @brief Suma dos numeros enteros
  *
- * @param a Primer operando
+ * @param a Primer operando DALE BOCA
  * @param b Segundo operando
  * @return int Resultado de la suma
  **/
